@@ -1,0 +1,32 @@
+h3 {
+    color:green;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 20px;
+    font-style: bold;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url("cadeado.jpg");
+    margin: 25px 50px;
+    background-repeat: no-repeat;
+    background-position: 40%  5%;
+    height: 100%;
+      
+
+}
+
+footer {
+    position: absolute;
+    text-align: center;
+    line-height: 700px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: blue;
+    font-size: 20px;
+   
+    
+
+    
+}
